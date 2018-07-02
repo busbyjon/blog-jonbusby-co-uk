@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c7064cf133b6e9f15227afa4fd5de77a",
+    "content-hash": "76757457314551164cda7677e9851f61",
     "packages": [
         {
             "name": "busbyjon/jonbusby-blog-theme",
@@ -486,7 +486,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "hhvm": "^3.3",
+        "php": "^7.2",
         "ext-mbstring": "*",
         "ext-gd": "*"
     },

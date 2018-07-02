@@ -15,7 +15,7 @@
             "heroku/heroku-buildpack-php":"*"
         },
     "require": {
-        "hhvm":"^3.3",
+        "php":"^7.2",
         "johnpbloch/wordpress-core": "4.9.6",
         "wpackagist-plugin/akismet":"4.0.8",
         "wpackagist-plugin/amazon-web-services":"1.0.3",
