@@ -16,9 +16,8 @@
         },
     "require": {
         "hhvm":"^3.3",
-        "johnpbloch/wordpress": "4.9.6",
+        "johnpbloch/wordpress-core": "4.9.6",
         "wpackagist-plugin/akismet":"4.0.8",
-        "wpackagist-plugin/captcha":">=4.4.5",
         "wpackagist-plugin/amazon-web-services":"1.0.3",
         "wpackagist-plugin/amazon-s3-and-cloudfront":"1.4.1",
 	"wpackagist-plugin/insert-headers-and-footers":"1.4.3",
